@@ -22,3 +22,5 @@ TextUtils is a handy and lightweight React-based text processing tool designed t
 * **Comes with a Toggle Mode `(Dark/Light)` for better accessibility and comfort.**
 
 * **Includes a search bar for potential future extensions like dictionary lookup or word highlight.**
+##Image
+![image](https://github.com/user-attachments/assets/89c8ec53-3d85-4921-abed-a7c51d96bdd8)
